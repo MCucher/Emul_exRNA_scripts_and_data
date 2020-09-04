@@ -4,7 +4,7 @@
 ############################################################
 ## MODELO DE BASH SCRIPT PARA EJECUTAR UN COMANDO MEDIANTE #
 ##        EL SISTEMA DE COLAS (QSUB) DEL SERVIDOR IMPAM    #
-##                                                         #
+##                          SARASA                               #
 ##               glichtenstein@fmed.uba.ar                 #
 ############################################################
 #
